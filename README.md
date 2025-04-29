@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @uddyyyyyy
-- 👀 I’m interested in analytics 
-- 🌱 I’m currently learning SQL, Python, R
-- 💞️ I’m looking to collaborate on software development and data analytics 
-- 📫 How to reach me @uddyyyyy on Instagram 
+- 👀 I’m a Web3 enthusiast and interested in anaytics
+- 🌱 I’m currently learning about Web3
+- 💞️ 
+- 📫 How to reach me= elieuodia@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love readingabd a bit socializing 
+- ⚡ Fun fact: i love reading and a bit socializing 
 
 <!---
 uddyyyyyy/uddyyyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
